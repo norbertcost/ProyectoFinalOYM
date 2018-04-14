@@ -1,3 +1,3 @@
-La carpeta codigo: Para su correcto ejecucion; Se necesita instalar la base en sql server.
-Econtrara la base en una de las carpeta, como tambien un ejecutable que no necesita de una
-base en sql. Solamente tener internet para su ejecucion.
+La carpeta -> "Codigo y ejecutable con su base" <- para su correcto ejecucion; Se necesita instalar su base en sql server.
+Econtrara la base de la carpeta, como tambien un ejecutable que no necesita de una
+base en sql, porque su base esta en la nube. Solamente tener internet para su ejecucion.
